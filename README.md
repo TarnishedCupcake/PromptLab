@@ -76,5 +76,3 @@ Prompt Lab is a comprehensive Streamlit-based application for creating, testing,
 4. **Analyze Quality**: Get detailed analysis and improvement suggestions
 5. **Security Check**: Run red team tests to identify vulnerabilities
 
-## 📁 Project Structure
-
