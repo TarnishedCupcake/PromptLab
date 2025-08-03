@@ -63,7 +63,7 @@ Prompt Lab is a comprehensive Streamlit-based application for creating, testing,
 
 3. **Run the application:**
    ```bash
-   streamlit run main_app/app.py
+   streamlit run main_app/app.py --server.port 5050
    ```
 
 4. **Open your browser** to `http://localhost:5000`
